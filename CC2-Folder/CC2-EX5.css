@@ -1,0 +1,21 @@
+#boite{
+    background-color: red;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    animation-name:animation ;
+    animation-duration:2s ;
+    animation-iteration-count: infinite;
+}
+
+@keyframes animation {
+    0%{
+        transform: translate(10px);
+    }   
+    50%{
+        transform: translate(400px)
+    }
+    100%{
+        transform: traslate(-410)
+    }
+}

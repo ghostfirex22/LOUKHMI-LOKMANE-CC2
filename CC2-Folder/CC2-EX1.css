@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+}
+
+h1:first-child {
+    text-shadow: 10px 10px 10px red;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+article section h2{
+    color: green;
+}
+
+h2 p{
+    font-style: italic;
+    color: blue;
+}
+
+
+
+
+
+
+

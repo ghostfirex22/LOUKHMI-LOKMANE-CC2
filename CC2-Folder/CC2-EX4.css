@@ -1,0 +1,31 @@
+.parent{
+    width: 1000;
+    height: 1000;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.i2{
+    position:absolute;
+    left:565px;
+}
+
+.i3{
+    position:absolute;
+    right:0px;
+    bottom: 440px;
+}
+
+.i4{
+    position:absolute;
+    top:440px ;
+}
+
+.i5{
+    position:absolute;
+    right: 0;
+    top: 440px;
+}
